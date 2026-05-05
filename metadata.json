@@ -1,0 +1,6 @@
+{
+  "name": "FootSim 2D",
+  "description": "Um jogo de futebol 2D de gerenciamento onde você treina times, administra economia, observa e edita todos os dados localmente, preenchidos por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
